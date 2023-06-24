@@ -7,6 +7,8 @@ assignees: Calemi
 
 ---
 
+### **Please assign the appropriate mod label before continuing!**
+
 **Bug description**
 A clear and concise description of what the bug is.
 
